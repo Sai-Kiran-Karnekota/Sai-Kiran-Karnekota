@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Sai-Kiran-Karnekota
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning DSA, Data Science
+
 
 
 <!---
